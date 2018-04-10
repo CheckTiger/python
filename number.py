@@ -13,6 +13,8 @@ print(a / b)  #整数除法返回整数
 print(c / b)  #浮点除法返回浮点类型
 print(a // b) #整数除法返回向下取整的结果
 print(a % b)  #操作符除法返回余数
+print(a % b)  #操作符除法返回余数
+print(a % b)  #操作符除法返回余数
 print(3*3.75/1.5)
 list1 = ['Google', 'Runoob', 1997, 2000]
 list2 = [1, 2, 3, 4, 5, 6, 7]
